@@ -2,7 +2,7 @@
 
 # 锤锤
 
-钉钉的老朋友，~~强烈不~~建议用于破解打卡！
+钉钉的老朋友，~~不~~建议用于破解打卡！
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.fuck.android.rimet?label=stars)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet)
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.fuck.android.rimet?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet/releases/latest)
@@ -14,7 +14,7 @@
 ## 功能
 
 已支持:
-支持gps+wifi环境打卡
+支持gps+wifi定位打卡
 
 待完成:
 支持蓝牙/视频打卡
@@ -23,7 +23,7 @@
 
 1. 先使用“钉钉”正常打卡一次
 
-2. 打开锤锤点击+号采集环境数据
+2. 打开“锤锤”点击+号采集环境数据
 
 3. 在锤锤列表中选择一个打卡环境
 
