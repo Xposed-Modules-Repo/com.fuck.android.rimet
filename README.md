@@ -14,7 +14,9 @@
 ## 注意事项
 
 - 环境采集数据存储路径
+
     0.3版本 ```/sdcard/Download/SmartisonProfile```
+    
     0.2版本 ```/data/system/hammer_profiles```
 
 - 各版本间数据互不兼容需重新采集
@@ -23,12 +25,17 @@
 ## 功能
 
 - 已支持:
+
     支持Android 8-13
+
     支持root类框架如LSPosed/太极阳（其他框架自行测试）
+
     支持rootless类框架如LSPatch/太极阴（其他框架自行测试）
+
     支持模拟GPS+WIFI定位
 
 - 待支持:
+
     模拟蓝牙设备定位
 
 ## 使用方法
