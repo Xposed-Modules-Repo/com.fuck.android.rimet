@@ -13,10 +13,10 @@
 
 ## 注意事项
 
-- 环境采集数据存储路径
+- 环境采集数据默认存储路径
 
     0.3版本 ```/sdcard/Download/SmartisonProfile```
-    
+
     0.2版本 ```/data/system/hammer_profiles```
 
 - 各版本间数据互不兼容需重新采集
