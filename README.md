@@ -52,11 +52,13 @@
 
 ## 问题排查
 
+确认关闭了存储隔离等类似工具会影响数据文件读取
+
 1. 模块是否生效？
 
     检查模块日志输出是否包含以下内容
     ```
-    Smartison handleLoadPackage:com.fuck.android.rimet
+    Smartisan handleLoadPackage:com.fuck.android.rimet
     ```
     包含跳转至[问题排查-2](#问题排查)，不包含请自行确认模块是否正确激活
     
