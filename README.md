@@ -15,12 +15,12 @@
 
 - 数据默认存储路径
 
-    | 版本号 | 数据存储位置                                                 |
-    | ------ | ------------------------------------------------------------ |
-    | 0.4    | /sdcard/Android/data/com.fuck.android.rimet/files/SmartisanProfile |
-    | 0.3.1  | /sdcard/Download/SmartisanProfile                            |
-    | 0.3    | /sdcard/Download/SmartisonProfile                            |
-    | 0.2    | /data/system/hammer_profiles                                 |
+    | 版本号 | 数据存储位置                                               |
+    | ------ | ---------------------------------------------------------- |
+    | 0.4    | /sdcard/Android/data/com.fuck.android.rimet/files/profiles |
+    | 0.3.1  | /sdcard/Download/SmartisanProfile                          |
+    | 0.3    | /sdcard/Download/SmartisonProfile                          |
+    | 0.2    | /data/system/hammer_profiles                               |
 
 - 大版本号之间数据互不兼容，且升级系统后数据可能也不兼容需重新收集
 
