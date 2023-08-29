@@ -2,7 +2,7 @@
 
 # 锤锤 Smartisan
 
-钉钉的好朋友，支持模拟位置！
+仅限于开发调试模拟位置，请勿用于钉钉打卡等非法用途！
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.fuck.android.rimet?label=stars)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet)
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.fuck.android.rimet?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet/releases/latest)
@@ -13,7 +13,7 @@
 
 ## 注意事项
 
-- 数据默认存储路径
+- 环境快照数据存储位置
 
     | 版本号 | 数据存储位置                                               |
     | ------ | ---------------------------------------------------------- |
@@ -21,32 +21,32 @@
     | 0.3.1  | /sdcard/Download/SmartisanProfile                          |
     | 0.3    | /sdcard/Download/SmartisonProfile                          |
     | 0.2    | /data/system/hammer_profiles                               |
-
+    | 0.1    | /sdcard/current-profile                                    |
+    
     大版本号之间数据互不兼容且升级系统后数据可能也不兼容需重新创建环境快照
 
 
 ## 功能
 
-- 已支持:
+* 支持快照GPS数据
 
-    支持快照GPS数据
+* 支持快照附近WIFI数据
 
-    支持快照附近WIFI数据
-
-    支持位置漂移功能
+* 支持模拟附近5米内随机位置
 
 ## 使用方法
 
-1. 打开“锤锤”点击+号创建环境快照
-2. 在”锤锤“列表中选择一个环境快照
-3. 在模块管理器中激活模块并勾选推荐应用
-4. **强行停止目标应用并重新打开**
-5. **国内Android系统需开启锤锤自启动/关联唤醒之类的功能**
+1. **禁用对目标应用隐藏本模块（可选）**
+2. **允许锤锤自启动/关联唤醒之类的功能（重要）**
+3. 打开锤锤点击+号按钮创建环境快照
+4. 在锤锤列表中选择需要模拟环境快照
+5. 在模块管理器中激活锤锤并勾选推荐应用
+6. **强行停止目标应用并重新打开（重要）**
 
 ## 运行环境
 
-* Android 8 - 14
-* LSPosed（推荐）/LSPatch（不推荐）/太极（不推荐）
+* 支持系统：Android 8 - 14
+* 支持框架：LSPosed（推荐）/LSPatch（不推荐）/太极（不推荐）
 
 ## 问题排查
 
@@ -72,7 +72,7 @@
 
     | 错误码 | 含义                 | 解决方案                       |
     | ------ | -------------------- | ------------------------------ |
-    | 1      | 不支持的应用         | 取消对目标应用开启模块         |
+    | 1      | 不支持该应用         | 取消对目标应用开启模块         |
     | 2      | 无法访问锤锤应用     | 是否对目标应用隐藏了模块？     |
     | 3      | 无法获取环境快照数据 | 在锤锤列表中勾选一个环境快照   |
     | 100    | 不预期的错误         | 加入群组提供相应的日志寻求帮助 |
