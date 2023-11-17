@@ -2,7 +2,7 @@
 
 # 锤锤 Smartisan
 
-仅限于开发调试模拟位置，请勿用于钉钉打卡等非法用途！
+仅限于使用高德SDK开发调试模拟位置，请勿用于钉钉打卡等非法用途！
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.fuck.android.rimet?label=stars)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet)
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.fuck.android.rimet?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet/releases/latest)
@@ -25,8 +25,11 @@
     
     大版本号之间数据互不兼容且升级系统后数据可能也不兼容需重新创建环境快照
 
+## 支持的应用
 
-## 功能
+所有使用高德定位SDK的应用，兼容性请自行测试。
+
+## 已实现的功能
 
 * 支持快照GPS数据
 
