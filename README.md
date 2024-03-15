@@ -11,6 +11,10 @@
 
 </div>
 
+## 自用机场推荐
+
+[![BYWAVE](https://user.by.ltd/templates/lagom/assets/img/logo/logo_big.png)](https://user.by.ltd/aff.php?aff=12669)
+
 ## 注意事项
 
 - 环境快照数据存储位置
