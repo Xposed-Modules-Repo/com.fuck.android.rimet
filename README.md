@@ -122,4 +122,4 @@ Android系统版本：13
 
 ## 贡献者
 
-@春秋四季天 @人间四月天
+@春秋四季天 @abuzz1966 @TTDXG @苏 @tiantianxiangshang12138 @HouhTung @🈚️ @DooDoo @Gimcy
