@@ -122,4 +122,8 @@ Android系统版本：13
 
 ## 贡献者
 
-@春秋四季天 @abuzz1966 @TTDXG @苏 @tiantianxiangshang12138 @HouhTung @🈚️ @DooDoo @Gimcy
+@春秋四季天 
+
+## 捐赠名单
+
+@abuzz1966 @TTDXG @苏 @tiantianxiangshang12138 @HouhTung @🈚️ @DooDoo @Gimcy @佞臣 @BenBen @mflll @你个死胖子 @jenova.w @@abuzz1966 @苏
