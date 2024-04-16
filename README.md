@@ -126,4 +126,4 @@ Android系统版本：13
 
 ## 捐赠名单
 
-@abuzz1966 @TTDXG @苏 @tiantianxiangshang12138 @HouhTung @🈚️ @DooDoo @Gimcy @佞臣 @BenBen @mflll @你个死胖子 @jenova.w @@abuzz1966 @苏
+@C_aa @ttd_xg @苏 @tiantianxiangshang12138 @HouhTung @🈚️ @DooDoo @Gimcy @佞臣 @BenBen @mf_lll @你个死胖子 @jenova.w @No_Name @abuzz1966 @@nijqu_niyqu @realki
