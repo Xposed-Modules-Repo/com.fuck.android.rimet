@@ -1,4 +1,4 @@
-<div align="center">
+{ "id": 1, "name": "Table Lamp", "isOn": true, "brightness": 100, "hex": "FF0000<div align="center">
 
 # 锤锤 Smartisan
 
